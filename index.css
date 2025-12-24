@@ -1,0 +1,24 @@
+body {
+    margin-left: 200px;
+}
+
+h1, h2 {
+    color: salmon;
+    width: 600px;
+    text-align: center;
+}
+
+h3 {
+    color: slategray;
+    width: 600px;
+    text-align: center;
+}
+
+.floyd {
+    margin-left: 200px;
+    margin-right: 10px;
+}
+
+.text {
+    color: orchid;
+}
